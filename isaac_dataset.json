@@ -1,0 +1,276 @@
+{"intents":[
+    {
+        "tag":"Nutrition",
+        "patterns":["The process of acquiring food that is needed for nourishment and sustenance of the organism is called nutrition.","There are two main modes of nutrition, autotrophic and heterotrophic."],
+        "responses":["What is nutrition?","What are the two types of nutrition in organisms?","Define Autotrophic mode of nutrition","Define Heterotrophic mode of nutrition","Differentiate between autotrophic and heterotrophic mode of nutrition"],
+        "context_set":""
+    },
+    {
+        "tag":"Photosynthesis",
+        "patterns":["The plants make food using sunlight and water, which provides nourishment to other organism and themselves.",
+"Chlorophyll present in the green parts absorbs light energy.","photosynthesis",
+"This light energy is used to split water into hydrogen and oxygen."],
+        "responses":["What is photosynthesis?","Which pigment present in plants helps to absorb light energy?","Why is photosynthesis important?"],
+        "context_set":""
+    },
+    {
+        "tag":"Stomata",
+        "patterns":["Stomata are pores on the leaves that help in the exchange of gases.",
+"They are mostly found on the underside of the leaf.",
+"Each stoma is guarded by guard cells, which control the opening and closing of the pore.",
+"The water content of the guard cells is responsible for their function."],
+        "responses":["What is stomata and where is it present?","Explain the structure of stomata."],
+        "context_set":""
+    },
+    {
+        "tag":"Nutrition in Amoeba",
+        "patterns":["Amoeba feeds by holozoic mode of nutrition.",
+"It engulfs the food particle using pseudopodia, the process is called phagocytosis.",
+"The engulfed food gets enclosed in a food vacuole.",
+"As the food vacuole passes through the cytoplasm, digestion, absorption and assimilation take place.",
+"When the food vacuole opens to outside, the egestion of undigested food takes place."],
+        "responses":["What mode of nutrition is followed by Amoeba?","Explain the process of phagocytosis"],
+        "context_set":""
+    },
+    {
+        "tag":"Alimentary Canal",
+        "patterns":["The alimentary canal in humans is a long tube of varying diameter.",
+"It starts with the mouth and ends with the anus.",
+"Oesophagus, stomach, small intestine and large intestine are the parts of the alimentary canal."],
+        "responses":["What are the starting and ending points of Alimentary Canal?","what are the various parts of alimentary canal?"],
+        "context_set":""
+    },
+    {
+        "tag":"Mouth",
+        "patterns":["It is the opening of the alimentary canal and helps in the ingestion of food.",
+"The buccal cavity which is present behind the mouth is also commonly referred to as the mouth.",
+"The buccal cavity has teeth and a tongue.",
+"The set of teeth helps in the mastication of food.",
+"The tongue has taste buds on it and thus helps in tasting the food.",
+"The salivary glands open also in the buccal cavity and pour saliva which initiates the process of digestion."],
+        "responses":["Explain role of mouth in digestion","How does tongue help in tasting?"],
+        "context_set":""
+    },
+    {
+        "tag":"Teeth",
+        "patterns":["Teeth are the hard structures present in the buccal cavity.",
+"They help us to cut, shear and masticate the food we eat.",
+"The vertical section of a tooth shows four layers enamel, dentine, cement and dental pulp.",
+"Enamel is the outermost, shiny, highly mineralized and the hardest part of the human body."],
+        "responses":["Explain role of teeth in digestion","What is the hardest part of the body and where is it present?"],
+        "context_set":""
+    },
+    {
+        "tag":"Oesophagus",
+        "patterns":["The swallowed food passes into the oesophagus.",
+"It is a muscular tube, about 25 cm long, with a sphincter (valve/opening) at each end.",
+"Its function is to transport food and fluid, after being swallowed, from the mouth to the stomach.",
+"Food is pushed down by peristaltic movements."],
+        "responses":["What is peristalsis?","Describe the structure of oesophagus"],
+        "context_set":""
+    },
+    {
+        "tag":"Stomach",
+        "patterns":["The stomach is a thick-walled bag-like structure.",
+"It receives food from the oesophagus at one end and opens into the small intestine at the other end.",
+"The inner lining of the stomach secretes mucous, hydrochloric acid and digestive juices.",
+"Food is churned into a semi-solid mass in the stomach and is called chyme.",
+"Enzymes present in the gastric juice break down the food."],
+        "responses":["What kind of acids and juices are present in stomach?"],
+        "context_set":""
+    },
+    {
+        "tag":"Small Intestine",
+        "patterns":["The small intestine is the longest part of the alimentary canal, about 20 feet long in humans.",
+"It has regions, duodenum, the region which follows the stomach, jejunum is the middle part and the ileum is the later region which continues further into the large intestine.",
+"The internal surface of the small intestine is folded into finger-like projections called villi."],
+        "responses":["Explain various parts of small intestine","What are villi ?"],
+        "context_set":""
+    },
+    {
+        "tag": "Pancreas",
+        "patterns":["The pancreas is a long, flat gland present behind the stomach in humans.",
+"It is one of the major digestive glands and is of mixed nature i.e. endocrine as well as exocrine.",
+"As an endocrine organ, it secretes two hormones called insulin and glucagon which maintain the blood sugar level."],
+        "responses":["Where is the pancreas present?","Name the two hormones secreted by pancreas"],
+        "context_set":""
+    },
+    {
+        "tag":"Digestive Juices",
+        "patterns":["Pancreatic juice, bile and intestinal juice (succus entericus) are collectively called digestive juices.",
+"A common duct from digestive glands pours the secretions into the duodenum.",
+"Chyme enters the small intestine where complete digestion takes place due to the action of various enzymes.",
+"In the duodenum, the acidity of chyme is turned to alkalinity by the action of bile coming from the liver. This is necessary for pancreatic enzyme action.",
+"Bile also emulsifies the fats into smaller globules."],
+        "responses":["Describe the role of various enzymes and juices in digestion.","Why is bile juice important?"],
+        "context_set":""
+    },
+    {
+        "tag":"Liver",
+        "patterns":["The liver is the largest and major digestive gland of humans.",
+"Liver, in humans, is located in the upper right-hand portion of the abdomen.",
+"This organ is dark reddish-brown in colour due to an extensive blood supply."],
+        "responses":["Where is the liver located?"],
+        "context_set":""
+    },
+    {
+        "tag":"Respiratory System",
+        "patterns":["The human respiratory system involves the nose, nasal cavities, pharynx, larynx, trachea/windpipe, bronchi, bronchioles and alveoli.",
+"The rib cage, muscles associated with the rib cage and diaphragm, all help in inhalation and exhalation of gases."],
+        "responses":["What parts is the human respiratory system composed of?"],
+        "context_set":""
+    },
+    {
+        "tag":"Physiology of Respiration",
+        "patterns":["Breathing in humans is facilitated by the action of internal intercostal and external intercostal muscles attached to the ribs and the diaphragm.",
+"When the dome-shaped diaphragm contracts and becomes flattened and the rib cage is expanded due to the action of intercostal muscles, the volume of the lungs increases, pressure there drops down and the air from outside gushes in. This is inhalation.",
+"To exhale, the diaphragm relaxes, becomes dome-shaped again, chest cavity contracts due to the action of intercostal muscles, the volume inside the lungs decreases, pressure increases and the air is forced out of the lungs.",
+"Inhaled air increases the concentration of oxygen in the alveoli,  so oxygen simply diffuses into the surrounding blood vessels."],
+        "responses":["Explain the process of respiration"],
+        "context_set":""
+    },
+    {
+        "tag":"Heart",
+        "patterns":["The muscular organ which is located near the chest slightly towards the left in the thoracic region.",
+"The heart is the main pumping organ of the body."],
+        "responses":["What role does the heart serves in the human body?"],
+        "context_set":""
+    },
+    {
+        "tag":"Blood Vessels",
+        "patterns":["Blood vessels carry blood throughout the body.",
+"There three types of blood vessels; arteries, veins and blood capillaries.",
+"Arteries carry oxygenated blood and veins carry deoxygenated blood."],
+        "responses":["What are the three types of blood vessels?","Differentiate between arteries and veins"],
+        "context_set":""
+    },
+    {
+        "tag":"Xylem",
+        "patterns":["Xylem tissue transports water in plants from root to all other parts of the plant.",
+"Xylem tissue is made up tracheids, vessels, xylem fibres and xylem parenchyma.",
+"The flow of water and minerals through xylem is always unidirectional."],
+        "responses":["What is the function of Xylem tissue?","What is the xylem made of?"],
+        "context_set":""
+    },
+    {
+        "tag":"Phloem",
+        "patterns":["The phloem is responsible for translocation of nutrients and sugar like carbohydrates, produced by the leaves to areas of the plant that are metabolically active.",
+"Sieve tubes, companion cells, phloem fibres, and phloem parenchyma cells are the components of this tissue"],
+        "responses":["Why is phloem important?"],
+        "context_set":""
+    },
+    {
+        "tag":"Kidneys",
+        "patterns":["They are basically the filtration units of the human body.",
+"Each kidney is made up of many tiny filtration units called nephrons."],
+        "responses":["What are the flitration units of body?"],
+        "context_set":""
+    },
+    {
+        "tag":"Translocation",
+        "patterns":["Transport of food in the plant through phloem via a process such as mass flow is called as translocation.",
+"Photosynthates i.e. sugars and organic molecules such as amino acids, organic acids, proteins and inorganic solutes like potassium, magnesium, nitrate, calcium, sulfur and iron from source tissues (mature leaves) to the sink cells (areas of growth and storage) are transported through the phloem."],
+        "responses":["What is the process of translocation? Explain"],
+        "context_set":""
+    },
+    {
+        "tag":"Excretion in Plants",
+        "patterns":["The cellular respiration, photosynthesis, and other metabolic reactions produce a lot of excretory products in plants.",
+"Carbon dioxide, excess water produced during respiration and nitrogenous compounds produced during protein metabolism are the major excretory products in plants.",
+"Plants produce two gaseous waste products i.e. oxygen during photosynthesis and carbon dioxide during respiration.",
+"Excretion of gaseous waste in plants takes place through stomatal pores on leaves.",
+"Oxygen released during photosynthesis is used for respiration while carbon dioxide released during respiration is used for photosynthesis."],
+        "responses":["What are the maor excretory products in plants?","How does excretion takes place in plants?"],
+        "context_set":""
+    },
+    {
+        "tag":"Neuron",
+        "patterns":["Each neuron has three main parts: dendrites, cyton/soma/cell body and axon.",
+"Dendrites receive impulses from other neurons.",
+"Cyton/soma processes the impulse.",
+"Axon transmits the impulse, either to another neuron or to muscles/glands, etc."],
+        "responses":["What are dendrites?","Explain transferring of impulse in axon"],
+        "context_set":""
+    },
+    {
+        "tag":"Central nervous system",
+        "patterns":["The cerebrum is responsible for reasoning, logic, emotions, speech, memory, visual processing, recognition of auditory and taste stimuli, etc.",
+"Cerebellum regulates and coordinates body movements, posture and balance.Medulla Oblongata controls all involuntary movements like vomiting, sneezing, yawning, heartbeat, breathing, blood pressure, etc.",
+"Medulla oblongata continues as the spinal cord which runs through the vertebral column and it controls reflex actions."],
+        "responses":["What is the function of Cerebellum?","What is role of medulla?","Explain different parts of brain"],
+        "context_set":""
+    },
+    {
+        "tag":"Reflex action",
+        "patterns":["Reflex action is a sudden, involuntary reaction of the body in response to stimuli."],
+        "responses":["What is a reflex action?"],
+        "context_set":""
+    },
+    {
+        "tag":"Reflex Arc",
+        "patterns":["It is the path followed by an electrical impulse during a reflex action.",
+"The impulse travels from the receptor organ to the spinal cord/brain. It is processed there and the information is brought back to the concerned muscle to carry out the action."],
+        "responses":["What is the difference between reflex action and reflex arc?"],
+        "context_set":""
+    },
+    {
+        "tag":"Geotropism",
+        "patterns":["Movement of plant parts in response to earth’s gravitational force is known as geotropism/gravitropism.Towards gravity – positive geotropism",
+"Away from gravity – negative geotropism."],
+        "responses":["What is positive and negative geotropism?"],
+        "context_set":""
+    },
+    {
+        "tag":"Phototropism",
+        "patterns":["Movement of plant parts in response to light is known as phototropism.","Towards light-positive phototropism",
+"Away from light – negative phototropism."],
+        "responses":["What is phototropism and its two types?"],
+        "context_set":""
+    },
+    {
+        "tag":"Hydrotropism",
+        "patterns":["Movement of plant parts in response to water or moisture.","Towards water-positive hydrotropism",
+"Away from water – negative hydrotropism","Again, root movement in search of water is positive hydrotropism"],
+        "responses":["What is hydrotropism and its two types?"],
+        "context_set":""
+    },
+    {
+        "tag":"Chemotropism",
+        "patterns":["Movement of plant parts in response to chemical stimuli is known as chemotropism.Towards chemical – positive chemotropism",
+"Away from chemical – negative chemotropism"],
+        "responses":["What is chemotropism?"],
+        "context_set":""
+    },
+    {
+        "tag":"Exocrine glands and Endocrine Glands",
+        "patterns":["Exocrine glands are glands that discharge secretions by means of  ducts, which open onto an epithelial surface.","Endocrine glands are the ductless glands which secrete hormones into the bloodstream in humans."],
+        "responses":["Differentiate between endocrine and exocrine glands"],
+        "context_set":""
+    },
+    {
+        "tag":"Pituitary gland",
+        "patterns":["It is a pea-sized gland located at the base of the brain.",
+"It is the master gland as it controls the secretions of all the other endocrine glands."],
+        "responses":["Why is pituitary gland called as the master gland?"],
+        "context_set":""
+    },
+    {
+        "tag":"Thyroid gland",
+        "patterns":["It is a butterfly-shaped gland located in the throat.",
+"It secretes the hormone Thyroxine which regulates the metabolism of the body.",
+"Iodine is required to synthesize thyroxine in the body."],
+        "responses":["What is thyroxine and what is its role in our body?","Why is iodine necessary for thyroid gland?"],
+        "context_set":""
+    },
+    {
+        "tag":"Pancreas",
+        "patterns":["It is a leaf-like gland present behind the stomach in the abdomen.",
+"It is an endocrine as well an exocrine gland.",
+"As an endocrine gland, it manufactures two hormones Insulin and glucagon. Both these hormones act antagonistically and regulate the sugar level in the blood.",
+"As an exocrine gland, it secretes enzymes to break down the proteins, lipids, carbohydrates and nucleic acids in food."],
+        "responses":["Why is pancreas both endocrine and exocrine gland?","Name the two proteins produced by pancreas"],
+        "context_set":""
+    }
+    
+]
+}
